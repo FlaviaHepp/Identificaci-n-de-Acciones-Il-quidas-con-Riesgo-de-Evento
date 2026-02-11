@@ -99,5 +99,5 @@ A veces está en no poder salir.
 Este insight no busca oportunidades,
 busca evitar escenarios donde el mercado se vuelve unidireccional 🚪📉
 
-👤Autora
+## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
