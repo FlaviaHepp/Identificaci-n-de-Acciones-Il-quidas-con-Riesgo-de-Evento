@@ -101,3 +101,67 @@ busca evitar escenarios donde el mercado se vuelve unidireccional 🚪📉
 
 ## 👤Autora
 Flavia Hepp Proyecto de SQL aplicó un análisis de riesgo basado en eventos.
+
+***
+⚠️ **El combo más peligroso del mercado: baja liquidez + malas noticias**
+
+Hay activos que parecen tranquilos…
+hasta que dejan de ser operables.
+
+---
+
+📊 En este análisis busqué algo muy específico:
+
+👉 Acciones del sector minero con:
+
+* **Volumen bajo** (<50% del promedio de su industria)
+* Y un evento reciente de **problema regulatorio**
+
+---
+
+🚨 ¿Por qué es una combinación crítica?
+
+Porque mezcla dos riesgos clave:
+
+📉 **Riesgo de evento:**
+
+* Noticias negativas
+* Incertidumbre regulatoria
+* Posibles caídas abruptas
+
+📉 **Riesgo de liquidez:**
+
+* Pocos compradores/vendedores
+* Spreads amplios
+* Dificultad para salir de la posición
+
+---
+
+💡 Cuando se combinan:
+
+👉 El precio puede moverse violentamente
+👉 Pero sin suficiente liquidez para reaccionar
+👉 Generando pérdidas mucho mayores a las esperadas
+
+---
+
+🧠 Insight clave:
+**El mayor riesgo no es solo que el precio caiga…
+es no poder salir cuando cae.**
+
+---
+
+🔍 ¿Qué permite este análisis?
+
+✔️ Detectar activos frágiles
+✔️ Evitar posiciones difíciles de desarmar
+✔️ Mejorar la gestión de riesgo en escenarios reales
+
+---
+
+📉 En trading, la liquidez no es un detalle técnico…
+es la diferencia entre una pérdida controlada y una atrapada.
+
+---
+
+#Quant #Trading #DataScience #LiquidityRisk #RiskManagement #Finanzas #EventDriven
